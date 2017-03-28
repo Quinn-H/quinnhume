@@ -1,16 +1,21 @@
-import React from 'react'
+import React, { Component } from 'react'
+import SocialBar from '../SocialBar'
 
 import styles from './index.css'
 
-const Footer = () => (
-  <footer className={styles.footer}>
-    { /* If you like Phenomic, this is a way to share the love ;) */ }
-    <p>
-      <span span className={styles.phenomicReferenceName}>
-        { '© 2017 Quinn Hu. Some Rights Reserved' }
-      </span>
-    </p>
-  </footer>
-)
-
-export default Footer
+export default class Footer extends Component {
+  render () {
+    return (
+      <div>
+        <footer className={styles.footer}>
+          <SocialBar />
+          <p>
+            <span span className={styles.phenomicReferenceName}>
+              { '© 2017 Quinn Hu. Some Rights Reserved' }
+            </span>
+          </p>
+        </footer>
+      </div>
+    )
+  }
+}

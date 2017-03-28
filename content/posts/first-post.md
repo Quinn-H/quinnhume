@@ -2,6 +2,7 @@
 title: First Post, no hero.
 date: 2016-01-22
 layout: Post
+disqus_id: '20160122'
 ---
 
 This is the first post!
