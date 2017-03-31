@@ -28,7 +28,7 @@ const Post = (props) => {
       }
     >
       <ReactDisqusComments
-        shortname='Quinn'
+        shortname='quinnhu'
         identifier={props.head.disqus_id}
         title={props.head.title}
         url={url}

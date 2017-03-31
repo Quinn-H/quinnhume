@@ -21,7 +21,7 @@ disqus_id: '20170311'
 
 ***
 
-  - To have a right mindset, I start with making a plan for this year. In this year, I want to achieve following goals:
+   To have a right mindset, I start with making a plan for this year. In this year, I want to achieve following goals:
 
   - Get a job, internships or work for the non-profit organization like Charity-It.
 

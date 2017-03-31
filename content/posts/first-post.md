@@ -1,11 +1,11 @@
 ---
-title: First Post, no hero.
-date: 2016-01-22
+title: Build New Blog with Static Site Generator
+date: 2017-03-30
 layout: Post
-disqus_id: '20160122'
+disqus_id: '20170330'
 ---
 
-This is the first post!
+As a Junior Developer, I spent almost half of my time in reading Tech Posts, the Stack Overflow or somethings to help me research and resolve problems during app development. However, reading is short term memory, you could lose what you learned after several days.     
 
 Code is highlighted by default.
 
