@@ -6,4 +6,25 @@ disqus_id: '20170327'
 ---
 
 # This is a test
- Hi! You've stumbled across a pre-release tool I'm not quite done with yet. Beware, there be bugs! Currently, you'll have the best luck with this site in the latest version Chrome or Safari on OSX
+ Hi! You've stumbled across a pre-release tool I'm not quite done with yet. Beware, there be bugs! Currently, you'll have the best luck with this site in the latest version Chrome or Safari on OSX.
+
+ Code is highlighted by default.
+
+```js
+const StatelessComponent = (props) => {
+  return (
+    <div>
+      I‘m a stateless component that accepts children
+      { props.children }
+    </div>
+  )
+}
+
+// ...
+
+  return (
+    <StatelessComponent>
+      Example of child
+    </StatelessComponent>
+  )
+```
