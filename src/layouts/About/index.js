@@ -7,12 +7,14 @@ import Experience from './Experience'
 import Education from './Education'
 import Volunteer from './Volunteer'
 import Interests from './Interests'
+import Chart from '../../components/Chart'
 
 const About = (props) => {
   return (
     <Page {...props}>
       <Bio />
       <Skills />
+      <Chart />
       <Experience />
       <Education />
       <Volunteer />

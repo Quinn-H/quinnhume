@@ -10,7 +10,7 @@ const Bio = () => (
 
     <p>
       {` As a recent graduate I mainly work with React.js. Familiar with various web development technologies and good knowledge of Database. `}
-      {`I love to solving problems, learn and share with others, and working with team where I can create value.`}
+      {`I love to solve problems, learn and share with others, and working with team where I can create value.`}
       {` Interested in learning and using new technologies. `}
     </p>
 
