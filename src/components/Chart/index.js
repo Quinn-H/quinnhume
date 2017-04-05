@@ -1,5 +1,5 @@
 import {Radar, RadarChart, PolarGrid,
-  PolarAngleAxis, PolarRadiusAxis} from 'Recharts'
+  PolarAngleAxis, PolarRadiusAxis} from 'recharts'
 import React, { Component } from 'react'
 
 import styles from './index.css'
