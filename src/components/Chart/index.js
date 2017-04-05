@@ -23,7 +23,7 @@ export default class TwoLevelPieChart extends Component {
     return (
       <div className={styles.Chart}>
         <RadarChart cx={250} cy={180} outerRadius={130} width={500} height={360} data={data}>
-          <Radar name='Mike ' dataKey='A' stroke='#8884d8' fill='#8884d8' fillOpacity={0.6} />
+          <Radar name='Mike ' dot dataKey='A' stroke='#593C8F' fill='#593C8F' fillOpacity={0.6} />
           <PolarGrid />
           <PolarAngleAxis dataKey='subject' />
           <PolarRadiusAxis />

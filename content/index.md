@@ -2,15 +2,19 @@
 title: Quinn Hu
 layout: Homepage
 cta:
-  label: Junior Web Developer
+  label: Full Stack Web Developer
   link: "about"
   props:
     big: true
 ---
 
-## 👨‍💻Welcome to my Blog👨‍💻
+<style>
+#textAlign {text-align: center}
+</style>
 
-***
+<h1 id="textAlign">Welcome to my Blog</h1>
+
+---
 
 I 'm **Quinn Hu**, a *Junior Full Stack Web Developer* with passion to create things and solving problems. Familiar with various web development technologies.
 
