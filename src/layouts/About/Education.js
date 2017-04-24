@@ -6,7 +6,7 @@ const Education = () => (
   <section>
     <h2>Education</h2>
     <Experience
-      subtitle='A Full-time immersion coding bootcamp for Web Development. This 19-week program focuses on Full stack JavaScript Web development and give students a real life web development environment.'
+      subtitle='A full-time immersion coding bootcamp for web development. This 19-week program focused on full stack JavaScript Web development and gave students a real life web development environment.'
       date='SEP/2016 - FEB/2017'>
       Enspiral Dev Academy, Auckland, NZ
     </Experience>

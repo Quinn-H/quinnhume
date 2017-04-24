@@ -6,9 +6,9 @@ const Volunteer = () => (
   <section>
     <h2>Volunteer</h2>
     <Experience
-      subtitle='A Hackathon to help not-for-profit organisations solve IT problems .'
-      date='MAR/2017'>
-      Charity-IT, Auckland, NZ
+      subtitle='Hackathons to help not-for-profit organisations solve IT problems .'
+      date='2017'>
+      Charity-IT, Wellington, NZ || ImpactNpo, Auckland, NZ
     </Experience>
   </section>
 )
