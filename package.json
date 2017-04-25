@@ -92,6 +92,7 @@
   },
   "devDependencies": {
     "autotrack": "^2.1.1",
+    "axios": "^0.16.1",
     "babel-cli": "^6.14.0",
     "babel-core": "^6.14.0",
     "babel-eslint": "^7.0.0",
@@ -137,5 +138,8 @@
     "warning": "^3.0.0",
     "webpack": "^1.11.0",
     "whatwg-fetch": "^0.11.0"
+  },
+  "dependencies": {
+    "meetup-api": "^1.4.12"
   }
 }

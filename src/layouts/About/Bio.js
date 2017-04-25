@@ -5,7 +5,7 @@ const Bio = () => (
     <h2>About</h2>
     <p>
       {'Hi '}
-      {', I am Quinn Hu, a Web Developer.'}
+      {', I am Quinn Hu, a Web Developer living in Auckland, NZ.'}
     </p>
 
     <p>
