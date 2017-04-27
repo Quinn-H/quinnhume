@@ -23,7 +23,7 @@ class Meetup extends Component {
   render () {
     return (
       <div className={styles.center}>
-        <h2>Meet me in upcoming Auckland Meetups</h2>
+        <h2>Meet me in upcoming Auckland Meetups(click it will redirect you to Meetup.com)</h2>
         <ul>
           {this.state.events.map(event =>
             <p key={event.id}><a href={event.link}>{event.name}</a></p>
