@@ -2,6 +2,7 @@
 title: Build A New Blog with Static Site Generator
 date: 2017-03-30
 layout: Post
+hero: https://c1.staticflickr.com/3/2863/34362718195_533c37be1e_h.jpg
 disqus_id: '20170330'
 ---
 ### The Motivations to Build a New Blog
