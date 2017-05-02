@@ -2,7 +2,7 @@ import React from 'react'
 
 const Bio = () => (
   <section>
-    <h2>About</h2>
+    <h2>About me</h2>
     <p>
       {'Hi '}
       {', I am Quinn Hu, a Web Developer living in Auckland, NZ.'}

@@ -1,9 +1,9 @@
 ---
 title: Map in JavaScript!
-date: 2017-05-27
+date: 2017-05-02
 layout: Post
 hero: https://c1.staticflickr.com/3/2863/34362718195_533c37be1e_h.jpg
-disqus_id: '20170527'
+disqus_id: '20170502'
 ---
 
 # Map in JavaScript
