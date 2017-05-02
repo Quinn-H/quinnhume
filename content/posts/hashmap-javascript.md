@@ -1,14 +1,13 @@
 ---
-title: Use Map, Hashmap in JavaScript
-date: 2017-05-1
+title: Map in JavaScript!
+date: 2017-05-27
 layout: Post
-# hero credit: https://www.flickr.com/photos/tifaeris
 hero: https://c1.staticflickr.com/3/2863/34362718195_533c37be1e_h.jpg
-# disqus_id must be a string
-disqus_id: '20170501'
+disqus_id: '20170527'
 ---
+
 # Map in JavaScript
----
+
 A week ago, I need to use Hashmap in JavaScript because Hashmap is useful to modify an object without having time complexity issue. When I was in University, I learned Hashmap is a implementation of the map interface in Java. But how to use it JavaScript ?
 JavaScript is high-level language. It's object included a hash table to keep properties. So I can just simply search object using a unique key value. The key of an object can not be number.
 
