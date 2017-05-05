@@ -6,6 +6,8 @@ import { BodyContainer, joinUri, Link } from 'phenomic'
 import Button from '../../components/Button'
 import Loading from '../../components/Loading'
 
+import P from 'react-particles-js'
+
 import styles from './index.css'
 
 const Page = (
@@ -63,6 +65,28 @@ const Page = (
             background: `#111 url(${head.hero}) 50% 50% / cover`
           }}
         >
+          <P
+            params={{
+              particles: {
+                number: {
+                  value: 80
+                },
+                line_linked: {
+                  shadow: {
+                    enable: false,
+                    color: '#3CA9D1',
+                    blur: 5
+                  }
+                }
+              }
+            }}
+            style={{
+              position: 'fixed',
+              top: -800,
+              left: 0,
+              width: '100%',
+              height: '100%'
+            }} />
           <div className={styles.header}>
             <div className={styles.wrapper}>
               <h1 className={styles.heading}>{ head.title }</h1>
