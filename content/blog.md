@@ -2,7 +2,7 @@
 title: Blog
 heading: Blog
 layout: Blog
-hero: https://c1.staticflickr.com/3/2863/34362718195_533c37be1e_h.jpg
+hero: https://preview.ibb.co/e7k2D5/hero.jpg
 ---
 
 ## All Posts

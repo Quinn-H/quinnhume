@@ -126,6 +126,7 @@
     "react-google-analytics": "^0.2.0",
     "react-helmet": "^3.0.0",
     "react-hot-loader": "^3.0.0-beta",
+    "react-particles-js": "^1.5.0",
     "react-redux": "^4.0.0",
     "react-router": "^2.3.0",
     "react-social-icons": "^2.6.0",

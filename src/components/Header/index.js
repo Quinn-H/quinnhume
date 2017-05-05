@@ -95,6 +95,14 @@ class Header extends Component {
             <li className={styles.navItem}>
               <Link
                 className={styles.link}
+                to={'/portfolio/'}
+              >
+                { 'Portfolio' }
+              </Link>
+            </li>
+            <li className={styles.navItem}>
+              <Link
+                className={styles.link}
                 to={'/contact/'}
               >
                 { 'Contact' }
