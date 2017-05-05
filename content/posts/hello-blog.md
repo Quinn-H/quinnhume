@@ -2,7 +2,7 @@
 title: Welcome back to my static website!
 date: 2017-03-27
 layout: Post
-hero: https://c1.staticflickr.com/3/2863/34362718195_533c37be1e_h.jpg
+hero: https://preview.ibb.co/e7k2D5/hero.jpg
 disqus_id: '20170327'
 ---
 
